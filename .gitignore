@@ -52,4 +52,7 @@ Temporary Items
 .apdisk
 
 /.idea
+/.vscode
 /stash
+/node_modules
+/yarn.lock
