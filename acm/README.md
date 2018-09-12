@@ -2,11 +2,11 @@
 
 ## 基本认识
 
-[了解ACM小组](About.md)
+[了解ACM小组](about.md)
 
-[ACM学习路线](Learning-path.md)
+[ACM学习路线](learning-path.md)
 
-[学长的心得](Note.md)
+[学长的心得](note.md)
 
 ## 新手入门
 
